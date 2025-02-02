@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0" :"krc:items/rider_circuit"
+    }
+}
