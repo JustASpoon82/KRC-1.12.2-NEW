@@ -1,0 +1,17 @@
+[
+{
+  "modid": "krc",
+  "name": "Kamen Rider Craft",
+  "description": "Bringing Kamen Rider into Minecraft! ",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Spoon"],
+  "credits": "Kelco and the original KRC Dev team, for giving me permission to carry on this version of the mod.
+              'Kamen Rider' and related characters are owned by Toei Company, Ltd. We do not make any claim to have created or own the concepts and designs shown in this mod. No profit has been made or will be made from this mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
